@@ -7,7 +7,7 @@ function App() {
 
   return (
     <>
-      <h1>Form Sumbit</h1>
+    
       <div>
         < Form />
       </div>
